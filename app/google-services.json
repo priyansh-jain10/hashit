@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "140159975245",
+    "firebase_url": "https://hashit-58a85.firebaseio.com",
+    "project_id": "hashit-58a85",
+    "storage_bucket": "hashit-58a85.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140159975245:android:cb0e502400d64e005d0104",
+        "android_client_info": {
+          "package_name": "com.example.hashit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140159975245-mvmjoetkg4askjuroga0e2le9urjhftr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hashit",
+            "certificate_hash": "990914e9b6c68f32753f4d713f0a50a6fc48039f"
+          }
+        },
+        {
+          "client_id": "140159975245-b9p1bk85egfjfo0c8sb76ndhuut4ma6g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7iXX2SbdMxjoaesXO4vcSTh-wYEZd1aY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140159975245-b9p1bk85egfjfo0c8sb76ndhuut4ma6g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
